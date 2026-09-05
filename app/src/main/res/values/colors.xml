@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clay_bg">#121212</color>
+    <color name="clay_card">#1E1E1E</color>
+    <color name="clay_text_header">#FFFFFF</color>
+    <color name="clay_text_body">#B3B3B3</color>
+</resources>
